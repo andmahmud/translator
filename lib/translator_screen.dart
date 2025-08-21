@@ -122,7 +122,7 @@ class TranslatorScreen extends StatelessWidget {
                                   ),
                                   onPressed: () {
                                     controller.speak();
-                                  }, 
+                                  },
                                 ),
                               ],
                             ),
